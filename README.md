@@ -11,3 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 ---
 <img align='left' alt="new_dsd's Github stats" src="https://github-readme-stats.vercel.app/api?username=new-dsd&show_icons=true&hide_border=true"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=new-dsd&theme=tokyonight)
